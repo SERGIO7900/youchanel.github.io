@@ -2,11 +2,11 @@
 
 Hasta ahora tengo varios sections que componen la pagina.
 
-## Nav 
+### Nav 
 En el nav section irá la barra de navegación.
-## Categories
+### Categories
 En el categories section irá solo seis categorías principales, las mas vistas.
-## Creators
+### Creators
 Aún no se que hace eso ahí xD.
-## Footer
+### Footer
 El pie de página con la información de la empresa.
